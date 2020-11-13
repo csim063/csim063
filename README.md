@@ -20,8 +20,8 @@
 
 <br>
 
-<img align="left" alt="R" width="26px" src="images/r.svg" />
 <img align="left" alt="Python" width="26px" src="images/python.svg" />
+<img align="left" alt="R" width="26px" src="images/r.svg" />
 <img align="left" alt="Julia" width="26px" src="images/julia.svg" />
 <img align="left" alt="C++" width="26px" src="images/cplusplus.svg" />
 <img align="left" alt="SQL" width="26px" src="images/mysql.svg" />
