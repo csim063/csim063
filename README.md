@@ -33,6 +33,7 @@
 <img align="left" alt="RStudio" width="26px" src="images/rstudio.svg" />
 <img align="left" alt="VSCode" width="26px" src="images/visualstudiocode.svg" />
 <img align="left" alt="jupyter" width="26px" src="images/jupyter.svg" />
+<img align="left" alt="anaconda" width="26px" src="images/anaconda.svg" />
 <img align="left" alt="windows" width="26px" src="images/windows.svg" />
 <img align="left" alt="linux" width="26px" src="images/linux.svg" />
 
