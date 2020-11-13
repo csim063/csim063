@@ -17,25 +17,25 @@
 
 ## Languages & Tools
 
-<img align="left" alt="Python" width="25px" src="images/python.svg" />
-<img align="left" alt="R" width="25px" src="images/r.svg" />
-<img align="left" alt="Julia" width="25px" src="images/julia.svg" />
-<img align="left" alt="C++" width="25px" src="images/cplusplus.svg" />
-<img align="left" alt="SQL" width="25px" src="images/mysql.svg" />
-<img align="left" alt="HTML" width="25px" src="images/html5.svg" />
-<img align="left" alt="CSS" width="25px" src="images/css3.svg" />
-<img align="left" alt="markdown" width="25px" src="images/markdown.svg" />
-<img align="left" alt="Latex" width="25px" src="images/latex.svg" />
-<img align="left" alt="git" width="25px" src="images/git.svg" />
-<img align="left" alt="github" width="25px" src="images/github.svg" />
-<img align="left" alt="gitlab" width="25px" src="images/gitlab.svg" />
-<img align="left" alt="gitkraken" width="25px" src="images/gitkraken.svg" />
-<img align="left" alt="RStudio" width="25px" src="images/rstudio.svg" />
-<img align="left" alt="VSCode" width="25px" src="images/visualstudiocode.svg" />
-<img align="left" alt="jupyter" width="25px" src="images/jupyter.svg" />
-<img align="left" alt="anaconda" width="25px" src="images/anaconda.svg" />
-<img align="left" alt="windows" width="25px" src="images/windows.svg" />
-<img align="left" alt="linux" width="25px" src="images/linux.svg" />
+<img align="left" alt="Python" width="23px" src="images/python.svg" />
+<img align="left" alt="R" width="23px" src="images/r.svg" />
+<img align="left" alt="Julia" width="23px" src="images/julia.svg" />
+<img align="left" alt="C++" width="23px" src="images/cplusplus.svg" />
+<img align="left" alt="SQL" width="23px" src="images/mysql.svg" />
+<img align="left" alt="HTML" width="23px" src="images/html5.svg" />
+<img align="left" alt="CSS" width="23px" src="images/css3.svg" />
+<img align="left" alt="markdown" width="23px" src="images/markdown.svg" />
+<img align="left" alt="Latex" width="23px" src="images/latex.svg" />
+<img align="left" alt="git" width="23px" src="images/git.svg" />
+<img align="left" alt="github" width="23px" src="images/github.svg" />
+<img align="left" alt="gitlab" width="23px" src="images/gitlab.svg" />
+<img align="left" alt="gitkraken" width="23px" src="images/gitkraken.svg" />
+<img align="left" alt="RStudio" width="23px" src="images/rstudio.svg" />
+<img align="left" alt="VSCode" width="23px" src="images/visualstudiocode.svg" />
+<img align="left" alt="jupyter" width="23px" src="images/jupyter.svg" />
+<img align="left" alt="anaconda" width="23px" src="images/anaconda.svg" />
+<img align="left" alt="windows" width="23px" src="images/windows.svg" />
+<img align="left" alt="linux" width="23px" src="images/linux.svg" />
 
 <br/><br/>
 
