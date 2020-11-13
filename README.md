@@ -1,6 +1,10 @@
-### Hi there, I am [Dr. Craig Simpkins][website] 👋
+## Hi there, I am [Dr. Craig Simpkins][website] 👋
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c405537-409e-4e38-a3f1-98b049338311/deploy-status)](https://app.netlify.com/sites/craig-simpkins/deploys)
+![Visits Badge](https://badges.pufler.dev/visits/csim063/csim063)
+![Repos Badge](https://badges.pufler.dev/repos/csim063)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/csim063)
+
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=Netlify&url=https://craig-simpkins.netlify.app/)](https://craig-simpkins.netlify.app/)
 
 ### I am an ecologist and data scientist with a passion for cool software
 - 🔭 I’m currently working on a number of research projects for Wilfred Laurier University
@@ -9,6 +13,33 @@
 - 🤔 I’m looking for help with joining the open source community
 - 💬 Ask me about anything landscape or population ecology related
 - ⚡ Fun fact: I am a pretty decent flat water kayaker
+
+---
+
+## Languages & Tools
+
+<br>
+
+<img align="left" alt="R" width="26px" src="images/r.svg" />
+<img align="left" alt="Python" width="26px" src="images/python.svg" />
+<img align="left" alt="Julia" width="26px" src="images/julia.svg" />
+<img align="left" alt="C++" width="26px" src="images/cplusplus.svg" />
+<img align="left" alt="SQL" width="26px" src="images/mysql.svg" />
+<img align="left" alt="HTML" width="26px" src="images/html5.svg" />
+<img align="left" alt="CSS" width="26px" src="images/css3.svg" />
+<img align="left" alt="markdown" width="26px" src="images/markdown.svg" />
+<img align="left" alt="Latex" width="26px" src="images/latex.svg" />
+<img align="left" alt="git" width="26px" src="images/git.svg" />
+<img align="left" alt="github" width="26px" src="images/github.svg" />
+<img align="left" alt="gitlab" width="26px" src="images/gitlab.svg" />
+<img align="left" alt="gitkraken" width="26px" src="images/gitkraken.svg" />
+<img align="left" alt="RStudio" width="26px" src="images/rstudio.svg" />
+<img align="left" alt="VSCode" width="26px" src="images/visualstudiocode.svg" />
+<img align="left" alt="jupyter" width="26px" src="images/jupyter.svg" />
+<img align="left" alt="windows" width="26px" src="images/windows.svg" />
+<img align="left" alt="linux" width="26px" src="images/linux.svg" />
+
+<br/><br/>
 
 ---
 
