@@ -37,7 +37,7 @@
 <img align="left" alt="windows" width="23px" src="images/windows.svg" />
 <img align="left" alt="linux" width="23px" src="images/linux.svg" />
 
-<br/><br/>
+<br/>
 
 ---
 
