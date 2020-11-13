@@ -18,8 +18,6 @@
 
 ## Languages & Tools
 
-<br>
-
 <img align="left" alt="Python" width="26px" src="images/python.svg" />
 <img align="left" alt="R" width="26px" src="images/r.svg" />
 <img align="left" alt="Julia" width="26px" src="images/julia.svg" />
