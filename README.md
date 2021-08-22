@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=Netlify&url=https://craig-simpkins.netlify.app/)](https://craig-simpkins.netlify.app/)
 
 ## I am an ecologist and data scientist with a passion for cool software
-- 🔭 I’m currently working on a number of research projects for Wilfred Laurier University
+- 🔭 I’m currently working on a number of research projects for the University of Göttingen
 - 🌱 I’m currently learning everything I can 
 - 👯 I’m looking to collaborate on projects to help science, particularly R packages
 - 🤔 I’m looking for help with joining the open source community
