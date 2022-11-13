@@ -13,28 +13,9 @@
 
 
 ## Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Julia]
-![C++]
-![SQL]
-![HTML]
-![CSS]
-![LaTEX]
-![git]
-![GitHub]
-![GitKraken]
-![RStudio]
-![VSCode]
-![Jupyter]
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux]
-![MacOS]
-![Windows]
+[![My Skills](https://skillicons.dev/icons?i=py,r,julia,cpp,tensorflow,mysql,postgres,html,css,latex,bash,git,github,githubactions,gitlab,docker,vscode,aws,netlify&theme=light)](https://skillicons.dev)
 
 <br/>
-
-[![My Skills](https://skillicons.dev/icons?i=py,r,julia,cpp,tensorflow,mysql,postgres,html,css,latex,bash,git,github,githubactions,gitlab,docker,vscode,aws,netlify&theme=light)](https://skillicons.dev)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csim063&layout=compact)
