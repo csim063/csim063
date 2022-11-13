@@ -1,4 +1,4 @@
-## Hi there, I am [Dr. Craig Simpkins][website] 👋
+## Hi there, I am [Dr. Craig Simpkins](https://craig-simpkins.netlify.app/) 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=csim063&countColor=%2344cc11)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=Netlify&url=https://craig-simpkins.netlify.app/)](https://craig-simpkins.netlify.app/)
