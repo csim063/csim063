@@ -3,7 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=csim063&countColor=%2344cc11)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=Netlify&url=https://craig-simpkins.netlify.app/)](https://craig-simpkins.netlify.app/)
 
-## I am an ecologist and data scientist with a passion for cool software
+### I am an ecologist and data scientist with a passion for ecology and the environment as well as cool software
 - 🔭 I’m currently working on a number of contracts with the [University of Auckland](https://www.auckland.ac.nz/en.html) and [Quantiful](https://quantiful.ai/) 
 - 🌱 I’m currently learning everything I can, with a focus on expanding my machine learning knowledge
 - 👯 I’m looking to collaborate on projects focussed on ecology, environmental science, or sustainabulity, particularly R packages
