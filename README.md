@@ -1,7 +1,6 @@
-## Hi there, I am [Dr. Craig Simpkins](https://craig-simpkins.netlify.app/) 👋
+## Hi there, I am Dr. Craig Simpkins 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=csim063&countColor=%2344cc11)
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&logo=Netlify&url=https://craig-simpkins.netlify.app/)](https://craig-simpkins.netlify.app/)
 
 ### I am an ecologist and data scientist with a passion for ecology and the environment as well as for cool software
 - 🔭 I’m currently working as a Senior Spatial Bioinformation Analyst for Auckland Council 
