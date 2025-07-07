@@ -1,25 +1,47 @@
-## Hi there, I am Dr. Craig Simpkins 👋
+## Hi there, I am Craig Simpkins PhD 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=csim063&countColor=%2344cc11)
 
-### I am an ecologist and data scientist with a passion for ecology and the environment as well as for cool software
-- 🔭 I’m currently working as a Senior Spatial Bioinformation Analyst for Auckland Council 
-- 🌱 I’m currently learning everything I can, with a focus on expanding my machine learning and AI knowledge
-- 👯 I’m looking to collaborate on projects focussed on ecology, environmental science, or sustainability, though am keen to help on any interesting projects
-- 🤔 I’m looking for help with joining the open source community
-- 💬 Ask me about anything landscape or population ecology related
-- ⚡ Fun fact: I am a pretty decent flat water kayaker
+I'm a Data Science and Research Consultant based in Auckland, New Zealand. I partner with organisations to solve complex data challenges, especially in environment and ecology, using advanced data analysis, machine learning, and spatial statistics.
 
-
-## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,r,julia,cpp,tensorflow,mysql,postgres,html,css,latex,bash,git,github,githubactions,gitlab,docker,vscode,aws,netlify&theme=light)](https://skillicons.dev)
-
-<br/>
+My work involves transforming complex datasets into actionable insights, robust models, and strategic tools.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csim063&layout=compact)
+### 🛠️Key Skills
 
+**Machine Learning & Predictive Modelling**
+* End-to-end model development, from feature engineering to deployment and clear interpretation of results.
+
+**Time-Series & Spatial Analysis**
+* Specialising in complex, location-based and time-dependent data to uncover deeper, contextual insights that standard analyses miss.
+
+**Cloud Data Architecture & Pipelines**
+* Designing and implementing efficient, scalable, and reproducible data analysis workflows.
+
+**Statistical Consulting & Research**
+* Providing expert experimental design, rigorous statistical validation, and clear technical reporting for major initiatives.
 
 ---
-![Craig's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csim063)
+
+### 🚀 Recent Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **Time-series modelling analysis** | Developed and benchmarked a suite of time-series models (from ARIMA to ML ensembles) to predict ecological outcomes using a messy public dataset, providing clear guidance on model selection under differing scenarios. | `R`, `Python`, `Scikit-learn`, `git` |
+| **Spatial Network Design** | Designed a spatially-optimised sampling network for vegetation monitoring, using spatial statistics to maximise data quality while minimising operational costs. | `R`, `SQL`, `QGIS`, `git` |
+| **Conservation Technical Report** | Undertook analysis and modelling and authored a comprehensive, data-driven ecological baseline and technical report for a major conservation management initiative in New Zealand. | `R`, `SQL`, `Quarto`, `git` |
+
+---
+
+### 💻 Core Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,julia,cpp,mysql,postgres,tensorflow,pytorch,sklearn,aws,gcp,docker,git,github,githubactions,latex,md&theme=light)](https://skillicons.dev)
+
+---
+
+### 📫 Get in Touch
+
+I'm always open to discussing new projects or consulting & contracting opportunities. If you're facing a data challenge that requires deep analytical expertise, let's connect.
+
+* **LinkedIn:** [www.linkedin.com/in/craig-eric-simpkins]
