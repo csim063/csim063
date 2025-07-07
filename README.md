@@ -2,7 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=csim063&countColor=%2344cc11)
 
-I'm a Data Science and Research Consultant based in Auckland, New Zealand. I partner with organisations to solve complex data challenges, especially in environment and ecology, using advanced data analysis, machine learning, and spatial statistics.
+I'm a Data Science and Research Consultant based in Auckland, New Zealand. I partner with organisations to solve complex data challenges, especially in environment and ecology, using advanced data analysis, machine learning, spatial statistics, and generative AI.
 
 My work involves transforming complex datasets into actionable insights, robust models, and strategic tools.
 
