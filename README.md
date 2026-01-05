@@ -4,7 +4,7 @@
 
 Data scientist and ecologist based in Auckland, New Zealand. I work across research, government, consulting, and corporate, where I excel at solving complex data challenges, especially in environment and ecology, using advanced data analysis, machine learning, spatial statistics, and generative AI.
 
-I also run [Emergent Data Analytics](https://www.emergent.co.nz), providing ecological modelling, geospatial analysis, and data science services for anyone who can benefit from them.
+I also run [Emergent Data Analytics](https://emergentdata.co.nz), providing ecological modelling, geospatial analysis, and data science services for anyone who can benefit from them.
 
 ---
 
@@ -45,5 +45,5 @@ I also run [Emergent Data Analytics](https://www.emergent.co.nz), providing ecol
 
 I'm always open to discussing new projects or consulting & contracting opportunities. If you're facing a data challenge that requires deep analytical expertise, let's connect.
 
-* **Consulting Enquiries:** [Emergent Data Analytics](contact@emergentdata.co.nz)
+* **Consulting Enquiries:** [Emergent Data Analytics](https://emergentdata.co.nz)
 * **LinkedIn:** [Dr. Craig Simpkins](https://www.linkedin.com/in/craig-eric-simpkins)
